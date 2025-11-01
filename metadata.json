@@ -1,0 +1,5 @@
+{
+  "name": "The Extreme Gym - Admin Panel",
+  "description": "A comprehensive gym management application to track clients, manage memberships, and simulate plan expiry notifications. This frontend-only demo showcases the UI and client-side logic.",
+  "requestFramePermissions": []
+}
